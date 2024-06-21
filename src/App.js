@@ -14,7 +14,7 @@ function App() {
       price: 999,
     },
     {
-      url: "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/31MtM5O4rPL.jpg",
+      url: "https://kaybeebio.com/wp-content/uploads/2023/05/Bio-Viricide-For-All-Types-Of-Fruits-and-Floriculture-Crops-1.jpeg",
       name: "P-virus repeleant",
       category: "Antibacterial",
       seller: "Global Farm",
